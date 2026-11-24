@@ -8,7 +8,7 @@ En cuanto a las creaciones, Wonka produce artículos mágicos de confitería de 
 
  Como los artículos están hechos de ingredientes mágicos, de cada artículo necesitamos saber dichos ingredientes, junto con la cantidad exacta utilizada de cada uno (por ejemplo: 5 gramos de azúcar arcoíris o 2 gotas de esencia de estrellas). Cada ingrediente mágico tiene asignado un código único, un nombre y la unidad de medida estándar que se considerará para las cantidades (gramo, gota, etc.).
 
-La información de los clientes (en este caso, distribuidores de golosinas en todo el mundo) también es crucial. De cada cliente, se registra su código identificador, nombre, dirección, teléfono, email, cuenta bancaria y tipo de pago (ya sea en barritas de oro o con transferencias regulares).
+La información de los clientes (en este caso, distribuidores de golosinas en todo el mundo) también es crucial. De cada cliente, se registra su cif, nombre, dirección, teléfono, email, cuenta bancaria y tipo de pago (ya sea en barritas de oro o con transferencias regulares).
 
 A cada cliente se le envía un catálogo de artículos al comienzo del año, y cuando deciden hacer un pedido, se registra el número de pedido único, la fecha del pedido, el cliente que lo realiza, los artículos solicitados y las unidades de cada uno. 
 
