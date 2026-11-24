@@ -350,8 +350,15 @@ git push
 git status        # qué has cambiado
 git log --oneline # historial resumido
 git remote -v     # a dónde apuntan origin y upstream
+
+cd /c/Users/navij/Desktop/Universidad/BD/bd-contenidos
+git add . && git commit -m "Mis cambios"   # 1. guardar lo tuyo
+git fetch upstream                         # 2. descargar lo del profesor
+git merge upstream/main --no-edit          # 3. combinarlo con lo tuyo
+git push origin main                       # 4. subir todo a tu fork
 ```
 
 ---
 
 *Asignatura de Bases de Datos — Grado en Ingeniería Informática, Universidad de Extremadura.*
+
